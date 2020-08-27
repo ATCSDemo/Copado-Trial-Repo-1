@@ -18,6 +18,10 @@
                 <behavior>Readonly</behavior>
                 <field>Roll_Number__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Subject__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
