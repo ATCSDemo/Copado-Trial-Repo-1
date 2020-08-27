@@ -162,6 +162,10 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>StudentOperationTest</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>SurveyController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -4776,6 +4780,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Student__c.Roll_Number__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Student__c.Subject__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>

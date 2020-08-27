@@ -16,5 +16,9 @@
         <label><!-- Roll Number --></label>
         <name>Roll_Number__c</name>
     </fields>
+    <fields>
+        <label><!-- Subject --></label>
+        <name>Subject__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>
