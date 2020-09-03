@@ -154,37 +154,21 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
-        <fullName>Address__c</fullName>
+        <fullName>Branch__c</fullName>
         <externalId>false</externalId>
-        <label>Address</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>TextArea</type>
-    </fields>
-    <fields>
-        <fullName>Roll_Number__c</fullName>
-        <displayFormat>A-{00}</displayFormat>
-        <externalId>false</externalId>
-        <label>Roll Number</label>
-        <trackTrending>false</trackTrending>
-        <type>AutoNumber</type>
-    </fields>
-    <fields>
-        <fullName>Subject__c</fullName>
-        <externalId>false</externalId>
-        <label>Subject</label>
-        <length>50</length>
+        <label>Branch</label>
+        <length>255</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <label>Student</label>
+    <label>Bank</label>
     <nameField>
-        <label>Student Name</label>
+        <label>Bank Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Students</pluralLabel>
+    <pluralLabel>Banks</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
