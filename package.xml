@@ -3,30 +3,22 @@
     <types>
         <members>BankOperation</members>
         <members>BankOperationTest</members>
-        <members>StudentOperation</members>
-        <members>StudentOperationTest</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>Bank__c.Branch__c</members>
-        <members>Student__c.Address__c</members>
-        <members>Student__c.Roll_Number__c</members>
-        <members>Student__c.Subject__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Bank__c</members>
-        <members>Student__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>Bank__c-Bank Layout</members>
-        <members>Student__c-Student Layout</members>
         <name>Layout</name>
     </types>
     <types>
         <members>Bank__c</members>
-        <members>Student__c</members>
         <name>SharingRules</name>
     </types>
     <version>49.0</version>
