@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>BankOperation</members>
-        <members>BankOperationTest</members>
+        <members>SchoolOperation</members>
+        <members>SchoolOperationTest</members>
         <name>ApexClass</name>
     </types>
     <types>
-        <members>Bank__c.Branch__c</members>
+        <members>School__c.Branch__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>Bank__c</members>
+        <members>School__c</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Bank__c-Bank Layout</members>
+        <members>School__c-School Layout</members>
         <name>Layout</name>
     </types>
     <types>
-        <members>Bank__c</members>
+        <members>School__c</members>
         <name>SharingRules</name>
     </types>
     <version>49.0</version>
